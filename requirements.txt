@@ -1,0 +1,4 @@
+flask
+flask-rest
+gunicorn
+pandas
